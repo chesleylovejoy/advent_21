@@ -4,7 +4,7 @@ from argparse import ArgumentParser
 import importlib
 import days
 
-INPUT_FILE_PATH = '/Users/clovejoy/code/python/advent_20/inputs'
+INPUT_FILE_PATH = '/Users/clovejoy/code/python/advent_21/inputs'
 
 
 def run_test(day, part):

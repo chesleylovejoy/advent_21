@@ -1,9 +1,9 @@
-#/usr/bin/env python3
+#!/usr/bin/env python3
 
 import os
 import argparse
 
-basedir = "/Users/clovejoy/code/python/advent_20"
+basedir = "/Users/clovejoy/code/python/advent_21"
 
 def make_files(day):
   os.system("cp {}/days/day_one_p1.py {}/days/day_{}_p1.py".format(basedir, basedir, day))
